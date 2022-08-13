@@ -1,8 +1,9 @@
-class BitwiseOperator6
+class Ternary
 {
 	public static void main (String args[])
 	{
-		int a = 15 & 12 ;
+		int a = 10 ;
+		a *= 5 ;
 		System.out.println(a);
 	}
-}	
+}

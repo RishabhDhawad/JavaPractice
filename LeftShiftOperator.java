@@ -1,8 +1,8 @@
-class BitwiseOperator6
+class LeftShiftOperator
 {
 	public static void main (String args[])
 	{
-		int a = 15 & 12 ;
+		int a = 8 << 2 ;
 		System.out.println(a);
 	}
-}	
+}
