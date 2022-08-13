@@ -1,8 +1,8 @@
-class BitwiseOperator6
+class RightShiftWithZeroFill
 {
 	public static void main (String args[])
 	{
-		int a = 15 & 12 ;
+		int a = -1 >>> 27 ;
 		System.out.println(a);
 	}
 }
